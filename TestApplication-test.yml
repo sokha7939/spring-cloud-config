@@ -1,2 +1,2 @@
-db:
-  name: TestApplication-test
+db: testName
+  name: testDb
