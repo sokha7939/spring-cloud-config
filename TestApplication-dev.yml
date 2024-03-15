@@ -1,2 +1,2 @@
-db: devDb
+db:
   name: devName
